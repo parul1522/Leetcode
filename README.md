@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul1522/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/parul1522/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul1522/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parul1522/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
