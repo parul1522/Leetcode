@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/parul1522/Leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
