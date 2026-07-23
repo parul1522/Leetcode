@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/parul1522/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/parul1522/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/parul1522/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/parul1522/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
