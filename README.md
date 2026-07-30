@@ -63,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/parul1522/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/parul1522/Leetcode/tree/master/0178-rank-scores) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
