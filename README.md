@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul1522/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
