@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
