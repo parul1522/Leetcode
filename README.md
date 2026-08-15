@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul1522/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/parul1522/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul1522/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
 | [1510-stone-game-iv](https://github.com/parul1522/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/parul1522/Leetcode/tree/master/0051-n-queens) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
