@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/parul1522/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/parul1522/Leetcode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/parul1522/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
