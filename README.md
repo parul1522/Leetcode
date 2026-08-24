@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [1510-stone-game-iv](https://github.com/parul1522/Leetcode/tree/master/1510-stone-game-iv) |
+| [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/parul1522/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0113-path-sum-ii) |
+| [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
