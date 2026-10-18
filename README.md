@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
+| [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul1522/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/parul1522/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul1522/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
@@ -204,9 +206,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
