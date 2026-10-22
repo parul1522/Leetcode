@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/parul1522/Leetcode/tree/master/0221-maximal-square) |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
+| [0221-maximal-square](https://github.com/parul1522/Leetcode/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/parul1522/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/parul1522/Leetcode/tree/master/0221-maximal-square) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parul1522/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
