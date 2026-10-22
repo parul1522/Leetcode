@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/parul1522/Leetcode/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/parul1522/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
+| [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul1522/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1510-stone-game-iv](https://github.com/parul1522/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
