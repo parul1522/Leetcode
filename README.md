@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/parul1522/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0765-couples-holding-hands](https://github.com/parul1522/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
+| [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
+| [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parul1522/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
