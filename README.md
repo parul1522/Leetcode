@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parul1522/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/parul1522/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/parul1522/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parul1522/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/parul1522/Leetcode/tree/master/0046-permutations) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parul1522/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/parul1522/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/parul1522/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parul1522/Leetcode/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parul1522/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
