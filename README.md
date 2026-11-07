@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
 | [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parul1522/Leetcode/tree/master/0011-container-with-most-water) |
+| [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parul1522/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/parul1522/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Divide and Conquer
 |  |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/parul1522/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
