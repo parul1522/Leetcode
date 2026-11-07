@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parul1522/Leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/parul1522/Leetcode/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/parul1522/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/parul1522/Leetcode/tree/master/0221-maximal-square) |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/parul1522/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -260,5 +262,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
