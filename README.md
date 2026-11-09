@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/parul1522/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0765-couples-holding-hands](https://github.com/parul1522/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0984-string-without-aaa-or-bbb](https://github.com/parul1522/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
 | [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/parul1522/Leetcode/tree/master/0043-multiply-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/parul1522/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1510-stone-game-iv](https://github.com/parul1522/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
