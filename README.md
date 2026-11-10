@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/parul1522/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/parul1522/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0769-max-chunks-to-make-sorted](https://github.com/parul1522/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/parul1522/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/parul1522/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0765-couples-holding-hands](https://github.com/parul1522/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0769-max-chunks-to-make-sorted](https://github.com/parul1522/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/parul1522/Leetcode/tree/master/0056-merge-intervals) |
 | [0218-the-skyline-problem](https://github.com/parul1522/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/parul1522/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0769-max-chunks-to-make-sorted](https://github.com/parul1522/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
+| [0769-max-chunks-to-make-sorted](https://github.com/parul1522/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parul1522/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Algorithm X
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/parul1522/Leetcode/tree/master/0321-create-maximum-number) |
+| [0769-max-chunks-to-make-sorted](https://github.com/parul1522/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
 | ------- |
