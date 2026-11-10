@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/parul1522/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parul1522/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2305-fair-distribution-of-cookies](https://github.com/parul1522/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0984-string-without-aaa-or-bbb](https://github.com/parul1522/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1029-two-city-scheduling](https://github.com/parul1522/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/parul1522/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parul1522/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parul1522/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/parul1522/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/parul1522/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/parul1522/Leetcode/tree/master/1029-two-city-scheduling) |
 | [3731-find-missing-elements](https://github.com/parul1522/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/parul1522/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/parul1522/Leetcode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/parul1522/Leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
